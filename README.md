@@ -1,2 +1,7 @@
-# FriedChicken.Finance
-Smart contracts used for the Fried Chicken system
+# SushiSwap 🍣
+
+https://app.sushiswap.org. Feel free to read the code. More details coming soon.
+
+## License
+
+WTFPL
